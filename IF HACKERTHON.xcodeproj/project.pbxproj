@@ -7,21 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		316812C52192EE8400D8B158 /* loginscene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316812C42192EE8400D8B158 /* loginscene.swift */; };
+		316812CB2193004900D8B158 /* PointShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316812CA2193004900D8B158 /* PointShop.swift */; };
+		316812CD2193007900D8B158 /* AiChat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316812CC2193007900D8B158 /* AiChat.swift */; };
+		316812CF219300A800D8B158 /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316812CE219300A800D8B158 /* Setting.swift */; };
+		AF0943E42196EA5B0040B6A1 /* StudyRoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0943E32196EA5B0040B6A1 /* StudyRoom.swift */; };
+		AF22D56621970F1B008CDB56 /* StudyRoom4.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D56521970F1B008CDB56 /* StudyRoom4.swift */; };
+		AF22D56A21971823008CDB56 /* WordShell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D56921971823008CDB56 /* WordShell.swift */; };
+		AF22D56C2197800E008CDB56 /* studyWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF22D56B2197800E008CDB56 /* studyWord.swift */; };
+		AF22D57B21979C2E008CDB56 /* Images-3.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF22D57A21979C2E008CDB56 /* Images-3.xcassets */; };
+		AF22D57D2197A80D008CDB56 /* logo 2.png in Resources */ = {isa = PBXBuildFile; fileRef = AF22D57C2197A80C008CDB56 /* logo 2.png */; };
+		AF22D57F2197A818008CDB56 /* KakaoTalk_Photo_2018-11-11-06-19-04.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF22D57E2197A818008CDB56 /* KakaoTalk_Photo_2018-11-11-06-19-04.jpeg */; };
+		AF22D5812197A821008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-59.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF22D5802197A821008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-59.jpeg */; };
+		AF22D5832197A82A008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-49.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF22D5822197A829008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-49.jpeg */; };
 		AF5CCB41217F5AE600E251BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5CCB40217F5AE600E251BC /* AppDelegate.swift */; };
-		AF5CCB43217F5AE600E251BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5CCB42217F5AE600E251BC /* ViewController.swift */; };
+		AF5CCB43217F5AE600E251BC /* mainscene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5CCB42217F5AE600E251BC /* mainscene.swift */; };
 		AF5CCB46217F5AE600E251BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF5CCB44217F5AE600E251BC /* Main.storyboard */; };
-		AF5CCB48217F5AE800E251BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF5CCB47217F5AE800E251BC /* Assets.xcassets */; };
 		AF5CCB4B217F5AE800E251BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF5CCB49217F5AE800E251BC /* LaunchScreen.storyboard */; };
+		AFFF35362196AE9400870DAD /* StudyScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFFF35352196AE9400870DAD /* StudyScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		316812C42192EE8400D8B158 /* loginscene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginscene.swift; sourceTree = "<group>"; };
+		316812CA2193004900D8B158 /* PointShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointShop.swift; sourceTree = "<group>"; };
+		316812CC2193007900D8B158 /* AiChat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AiChat.swift; sourceTree = "<group>"; };
+		316812CE219300A800D8B158 /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
+		AF0943E32196EA5B0040B6A1 /* StudyRoom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRoom.swift; sourceTree = "<group>"; };
+		AF22D56521970F1B008CDB56 /* StudyRoom4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyRoom4.swift; sourceTree = "<group>"; };
+		AF22D56921971823008CDB56 /* WordShell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordShell.swift; sourceTree = "<group>"; };
+		AF22D56B2197800E008CDB56 /* studyWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studyWord.swift; sourceTree = "<group>"; };
+		AF22D57A21979C2E008CDB56 /* Images-3.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-3.xcassets"; sourceTree = "<group>"; };
+		AF22D57C2197A80C008CDB56 /* logo 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logo 2.png"; sourceTree = "<group>"; };
+		AF22D57E2197A818008CDB56 /* KakaoTalk_Photo_2018-11-11-06-19-04.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "KakaoTalk_Photo_2018-11-11-06-19-04.jpeg"; sourceTree = "<group>"; };
+		AF22D5802197A821008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-59.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "KakaoTalk_Photo_2018-11-11-06-18-59.jpeg"; sourceTree = "<group>"; };
+		AF22D5822197A829008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-49.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "KakaoTalk_Photo_2018-11-11-06-18-49.jpeg"; sourceTree = "<group>"; };
 		AF5CCB3D217F5AE600E251BC /* IF HACKERTHON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IF HACKERTHON.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF5CCB40217F5AE600E251BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AF5CCB42217F5AE600E251BC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AF5CCB42217F5AE600E251BC /* mainscene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mainscene.swift; sourceTree = "<group>"; };
 		AF5CCB45217F5AE600E251BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AF5CCB47217F5AE800E251BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF5CCB4A217F5AE800E251BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF5CCB4C217F5AE800E251BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFFF35352196AE9400870DAD /* StudyScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StudyScene.swift; path = ../StudyScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +80,25 @@
 		AF5CCB3F217F5AE600E251BC /* IF HACKERTHON */ = {
 			isa = PBXGroup;
 			children = (
+				AFFF35352196AE9400870DAD /* StudyScene.swift */,
 				AF5CCB40217F5AE600E251BC /* AppDelegate.swift */,
-				AF5CCB42217F5AE600E251BC /* ViewController.swift */,
+				AF5CCB42217F5AE600E251BC /* mainscene.swift */,
+				316812C42192EE8400D8B158 /* loginscene.swift */,
 				AF5CCB44217F5AE600E251BC /* Main.storyboard */,
-				AF5CCB47217F5AE800E251BC /* Assets.xcassets */,
+				AF22D57C2197A80C008CDB56 /* logo 2.png */,
+				316812CC2193007900D8B158 /* AiChat.swift */,
 				AF5CCB49217F5AE800E251BC /* LaunchScreen.storyboard */,
+				AF22D57E2197A818008CDB56 /* KakaoTalk_Photo_2018-11-11-06-19-04.jpeg */,
 				AF5CCB4C217F5AE800E251BC /* Info.plist */,
+				316812CA2193004900D8B158 /* PointShop.swift */,
+				AF22D5822197A829008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-49.jpeg */,
+				AF22D5802197A821008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-59.jpeg */,
+				316812CE219300A800D8B158 /* Setting.swift */,
+				AF0943E32196EA5B0040B6A1 /* StudyRoom.swift */,
+				AF22D56521970F1B008CDB56 /* StudyRoom4.swift */,
+				AF22D56921971823008CDB56 /* WordShell.swift */,
+				AF22D56B2197800E008CDB56 /* studyWord.swift */,
+				AF22D57A21979C2E008CDB56 /* Images-3.xcassets */,
 			);
 			path = "IF HACKERTHON";
 			sourceTree = "<group>";
@@ -122,9 +161,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF22D5812197A821008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-59.jpeg in Resources */,
+				AF22D57D2197A80D008CDB56 /* logo 2.png in Resources */,
+				AF22D57B21979C2E008CDB56 /* Images-3.xcassets in Resources */,
 				AF5CCB4B217F5AE800E251BC /* LaunchScreen.storyboard in Resources */,
-				AF5CCB48217F5AE800E251BC /* Assets.xcassets in Resources */,
 				AF5CCB46217F5AE600E251BC /* Main.storyboard in Resources */,
+				AF22D57F2197A818008CDB56 /* KakaoTalk_Photo_2018-11-11-06-19-04.jpeg in Resources */,
+				AF22D5832197A82A008CDB56 /* KakaoTalk_Photo_2018-11-11-06-18-49.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +178,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF5CCB43217F5AE600E251BC /* ViewController.swift in Sources */,
+				AF0943E42196EA5B0040B6A1 /* StudyRoom.swift in Sources */,
+				AFFF35362196AE9400870DAD /* StudyScene.swift in Sources */,
+				AF5CCB43217F5AE600E251BC /* mainscene.swift in Sources */,
+				AF22D56C2197800E008CDB56 /* studyWord.swift in Sources */,
 				AF5CCB41217F5AE600E251BC /* AppDelegate.swift in Sources */,
+				AF22D56A21971823008CDB56 /* WordShell.swift in Sources */,
+				316812CB2193004900D8B158 /* PointShop.swift in Sources */,
+				316812CF219300A800D8B158 /* Setting.swift in Sources */,
+				316812C52192EE8400D8B158 /* loginscene.swift in Sources */,
+				AF22D56621970F1B008CDB56 /* StudyRoom4.swift in Sources */,
+				316812CD2193007900D8B158 /* AiChat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,13 +334,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
+				COPY_HEADERS_RUN_UNIFDEF = YES;
+				DEVELOPMENT_TEAM = 45K89U54K6;
 				INFOPLIST_FILE = "IF HACKERTHON/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.IF-HACKERTHON";
+				PRODUCT_BUNDLE_IDENTIFIER = "Com.project.IF-HACKATHONE";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -299,13 +355,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
+				COPY_HEADERS_RUN_UNIFDEF = YES;
+				DEVELOPMENT_TEAM = 45K89U54K6;
 				INFOPLIST_FILE = "IF HACKERTHON/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Com.example.IF-HACKERTHON";
+				PRODUCT_BUNDLE_IDENTIFIER = "Com.project.IF-HACKATHONE";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

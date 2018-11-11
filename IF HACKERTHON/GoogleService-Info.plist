@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>881895471761-ahqrh9qonk805266tp1i2hamrlt2fcaf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.881895471761-ahqrh9qonk805266tp1i2hamrlt2fcaf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9d3qN_7rC9_oDiupZ3ZIRFWfNHMtcSXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881895471761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Com.project.IF-HACKATHONE</string>
+	<key>PROJECT_ID</key>
+	<string>if-hakathone</string>
+	<key>STORAGE_BUCKET</key>
+	<string>if-hakathone.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881895471761:ios:cbaa34aedc2f6639</string>
+	<key>DATABASE_URL</key>
+	<string>https://if-hakathone.firebaseio.com</string>
+</dict>
+</plist>
