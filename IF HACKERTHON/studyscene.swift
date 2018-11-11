@@ -1,33 +1,25 @@
 //
-//  studyscene.swift
+//  StudyScene.swift
 //  IF HACKERTHON
 //
-//  Created by JungJaeGeun on 2018. 11. 7..
-//  Copyright © 2018년 개발하는인싸들. All rights reserved.
+//  Created by 정재근 on 10/11/2018.
+//  Copyright © 2018 개발하는인싸들. All rights reserved.
 //
 
 import UIKit
 
-class studyscene: UIViewController {
+class StudyScene: UIViewController {
 
-    //@IBOutlet weak var lblstudy: UILabel!
-    
-    
+   
+    @IBAction func study(_ sender: Any) {
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-      
-    }
-    @IBAction func btnBack(_ sender: UIButton) {
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
+    
        
     }
     
 
-   
-
+  
 }
